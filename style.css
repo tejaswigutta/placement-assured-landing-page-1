@@ -489,6 +489,7 @@ hr {
 
     .banner {
         background-image: url("./assets/background-mobile.png");
+        padding-bottom: 0rem;
     }
 
     .banner-content {

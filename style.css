@@ -484,8 +484,7 @@ hr {
 
 @media (max-width: 576px) {
     .container {
-        padding-left: 1rem;
-        padding-right: 1rem;
+       padding:1rem;
     }
 
     .banner {
